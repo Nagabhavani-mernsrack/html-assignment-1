@@ -1,0 +1,61 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/palla/Downloads/index2%20(4).html
+Subject: 
+Date: Sat, 28 Dec 2024 11:02:48 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--MB6cvN7ftCqmZK8YTVYdBtjuOjyhAv8Mbx4Q6Pn1t6----"
+
+
+------MultipartBoundary--MB6cvN7ftCqmZK8YTVYdBtjuOjyhAv8Mbx4Q6Pn1t6----
+Content-Type: text/html
+Content-ID: <frame-ADA99B45822F8EE7249AE913667AE328@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/palla/Downloads/index2%20(4).html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3Dwindows-1252"><link rel=3D"stylesheet" type=3D"text/css" =
+href=3D"cid:css-9c1d9d82-2646-4ee1-b92d-1e247726a60c@mhtml.blink" />
+     =20
+   </head>
+    <body>
+        <p> the element is poritioned relative to the viewport and does not=
+ move when scrolling</p>
+        <p> the element is poritioned relative to the viewport and does not=
+ move when scrolling</p>
+        <p> the element is poritioned relative to the viewport and does not=
+ move when scrolling</p>
+        <p> the element is poritioned relative to the viewport and does not=
+ move when scrolling</p>
+        <p> the element is poritioned relative to the viewport and does not=
+ move when scrolling</p>
+        <p> the element is poritioned relative to the viewport and does not=
+ move when scrolling</p>
+      <header class=3D"sticky-container">
+        <div class=3D"sticky-box">Navigation bar</div>
+        <p> the element is poritioned relative to the viewport and does not=
+ move when scrolling</p>
+        <p> the element is poritioned relative to the viewport and does not=
+ move when scrolling</p>
+        <p> the element is poritioned relative to the viewport and does not=
+ move when scrolling</p>
+
+      </header>
+       =20
+
+   =20
+
+&lt;</body></html>
+------MultipartBoundary--MB6cvN7ftCqmZK8YTVYdBtjuOjyhAv8Mbx4Q6Pn1t6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-9c1d9d82-2646-4ee1-b92d-1e247726a60c@mhtml.blink
+
+@charset "windows-1252";
+
+.sticky-container { height: 1000px; background-color: lightblue; }
+
+.sticky-box { width: 100%; background-color: orange; position: sticky; top:=
+ 0px; padding: 10px; text-align: center; }
+------MultipartBoundary--MB6cvN7ftCqmZK8YTVYdBtjuOjyhAv8Mbx4Q6Pn1t6------
